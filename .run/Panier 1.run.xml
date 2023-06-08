@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Panier 1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="kosr.katas.taxes.App" />
+    <module name="kata-calcul-taxes" />
+    <option name="PROGRAM_PARAMETERS" value="src/main/resources/cart1.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="kosr.katas.taxes.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

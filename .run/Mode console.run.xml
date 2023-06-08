@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Mode console" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="kosr.katas.taxes.App" />
+    <module name="kata-calcul-taxes" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="kosr.katas.taxes.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
